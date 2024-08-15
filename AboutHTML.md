@@ -46,10 +46,6 @@ O HTML é usado para gerar uma interface básica para interação com aplicaçõ
 - `<figcaption>`: define uma legenda para o elemento `figure>`;
 - `<time>`: define um tempo específico (ou uma data).
 
-Exemplo de layout usando elementos semânticos:
-
-![[HTMLsemantic_bm.svg]]
-
 Exemplo de um código usando elementos semânticos:
 
 ```html
