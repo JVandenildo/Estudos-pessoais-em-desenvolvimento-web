@@ -20,7 +20,8 @@ As páginas _web_ são armazenadas em arquivos com extensão **.htm** ou **.html
 ## Sumário
 
 1. [HTML e a web](#html-e-a-web);
-2. [HTML semântico e não semântico](#html-semântico-e-não-semântico).
+2. [HTML semântico e não semântico](#html-semântico-e-não-semântico);
+3. [Boas práticas em HTML](#boas-práticas-em-html).
 
 ## HTML e a _web_
 
@@ -33,7 +34,7 @@ O HTML é usado para gerar uma interface básica para interação com aplicaçõ
 
 ## HTML semântico e não semântico
 
-==Elementos semânticos== de HTML são os elementos que descrevem claramente o seu significado em uma leitura feita tanto pela máquina quanto por um humano. Esses elementos são pensados para aperfeiçoar a estrutura e acessibilidade de páginas _web_. Elementos semânticos comuns:
+Elementos semânticos de HTML são os elementos que descrevem claramente o seu significado em uma leitura feita tanto pela máquina quanto por um humano. Esses elementos são pensados para aperfeiçoar a estrutura e acessibilidade de páginas _web_. Elementos semânticos comuns:
 
 - `<header>`: define um cabeçalho para um documento ou seção;
 - `<nav>`: define um conjunto de links de navegação;
@@ -73,7 +74,7 @@ Os benefícios de elementos semânticos são:
 - **Manutenção**: código é mais fácil de ler e manter;
 - **Futuras atualizações**: aderir aos padrões assegura melhor suporte por diferentes navegadores e tecnologias futuras.
 
-==Elementos não semânticos== de HTML são aqueles que não tem algum significado específico sobre seu conteúdo. Esses elementos são mais sobre estilização e _layout_ do que descrição de conteúdo. Alguns elementos não semânticos comuns são:
+Elementos não semânticos de HTML são aqueles que não tem algum significado específico sobre seu conteúdo. Esses elementos são mais sobre estilização e _layout_ do que descrição de conteúdo. Alguns elementos não semânticos comuns são:
 
 - `<div>`: um container genérico para fluxo de conteúdo;
 - `<span>`: um container _inline_ genérico para conteúdo fraseado.
@@ -103,3 +104,124 @@ Exemplo de código HTML usando elementos não semânticos:
 	<p>2024 My website</p>
 </div>
 ```
+
+## Boas práticas em HTML
+
+Aqui faz presente uma lista com boas práticas em HTML
+
+1. Declarar o _doctype_ HTML5 corretamente;
+
+   ```html
+   <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+   ```
+
+   _doctype rigoroso para HTML 4.01._
+
+   ```html
+   <!DOCTYPE html:
+   ```
+
+   _doctype para HTML5._
+
+2. Usar somente um elemento `<h1>` em uma única página HTML para melhor SEO (Search Engine Optimization). [Artigo](https://rockcontent.com/br/blog/o-que-e-seo/) sobre SEO;
+3. Usar o elemento figure para adicionar legendas às imagens no HTML;
+
+   ```html
+   <div>
+   	<img
+   		src="a-man-coding.png"
+   		alt="A man working on his
+    computer"
+   	/>
+   	<p>This is a picture of a man working on his computer</p>
+   </div>
+   ```
+
+   _Sem o elemento figure._
+
+   ```html
+   <figure>
+   	<img
+   		src="a-man-coding.jpg"
+   		alt="A man working on his
+    computer"
+   	/>
+   	<figcaption>This is a picture of a man working on his computer</figcaption>
+   </figure>
+   ```
+
+   _Com o elemento figure._
+
+4. Não usar divs para criar _headers_ e _footers_, usar elementos apropriados;
+
+   ```html
+   <div class="header">
+   	<a href="index.html">Home</a>
+   	<a href="#">About</a>
+   	<a href="#">Contact</a>
+   </div>
+
+   <div class="footer">
+   	<a href="index.html">Home</a>
+   	<a href="#">About</a>
+   	<a href="#">Contact</a>
+   </div>
+   ```
+
+   _Sem os elementos apropriados._
+
+   ```html
+   <header>
+   	<h1>Brand Name</h1>
+   </header>
+
+   <footer>
+   	<a href="index.html">Home</a>
+   	<a href="#">About</a>
+   	<a href="#">Contact</a>
+   </footer>
+   ```
+
+   _Com os elementos apropriados._
+
+5. Evitar o uso de `<b>` e `<i>` para tornar os textos negrito e itálico em uma página web, use as tags `<strong>` e `<em>`;
+
+   ```html
+   <p><i>Code at your own pace</i></p>
+   <p></p>
+   <p><b>Code at your own pace</b></p>
+   <p></p>
+   ```
+
+   ```html
+   <p><strong>Code at your own pace</strong></p>
+   <p><em>Code at your own pace</em></p>
+   ```
+
+6. Não colocar elementos a nível de bloco dentro de elementos de linha;
+
+   ```html
+   <a href="#">
+   	<p>Visit Blog Site</p>
+   </a>
+   ```
+
+   _Não é tão interessante._
+
+   ```html
+   <p>
+   	Visit <a href="www.myblog.com" target="_blank"> My Blog Site</a> to learn
+   	JavaScript.
+   </p>
+   ```
+
+   _Mais interessante._
+
+7. Minimize o CSS externo e vincule-o ao documento HTML;
+8. Nunca use CSS dentro de um documento HTML;
+9. Não use _divs_ para tudo;
+10. Feche todas as _tags_ HTML;
+11. Use marcação em minúsculo;
+12. Use o atributo _alt_ nas imagens;
+13. Evite comentários em excesso;
+14. Siga a hierarquia para elementos de cabeçalho.
