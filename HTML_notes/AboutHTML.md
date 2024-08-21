@@ -233,7 +233,8 @@ Aqui faz presente uma lista com boas práticas em HTML
 ## Referências
 
 1. [roadmap.sh/frontend](https://roadmap.sh/frontend);
-2. [app.daily.dev/tags/html?ref=roadmapsh](https://app.daily.dev/tags/html?ref=roadmapsh.).
+2. [app.daily.dev/tags/html?ref=roadmapsh](https://app.daily.dev/tags/html?ref=roadmapsh.);
+3. [github.com/denysdovhan/learnyouhtml](https://github.com/denysdovhan/learnyouhtml).
 
 ### Referências em artigos da _web_
 
@@ -250,5 +251,6 @@ Aqui faz presente uma lista com boas práticas em HTML
 
 ### Referências em vídeos
 
-1. Vídeo "[HTML Full Course - Build a Website Tutorial](https://youtu.be/pQN-pnXPaVg)" do canal [@freecodecamp](https://www.youtube.com/@freecodecamp).;
-2. Vídeo "[HTML Tutorial for Beginners: HTML Crash Course](https://youtu.be/qz0aGYrrlhU)" do canal [@programmingwithmosh](https://www.youtube.com/@programmingwithmosh).
+1. "[HTML Full Course - Build a Website Tutorial](https://youtu.be/pQN-pnXPaVg)" do canal [@freecodecamp](https://www.youtube.com/@freecodecamp).;
+2. "[HTML Tutorial for Beginners: HTML Crash Course](https://youtu.be/qz0aGYrrlhU)" do canal [@programmingwithmosh](https://www.youtube.com/@programmingwithmosh);
+3. "[HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/mJgBOIoGihA?si=kDsrzjXT8BABOqJg)" do canal [@DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode).
