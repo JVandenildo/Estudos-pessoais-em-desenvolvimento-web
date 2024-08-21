@@ -21,7 +21,8 @@ As páginas _web_ são armazenadas em arquivos com extensão **.htm** ou **.html
 
 1. [HTML e a web](#html-e-a-web);
 2. [HTML semântico e não semântico](#html-semântico-e-não-semântico);
-3. [Boas práticas em HTML](#boas-práticas-em-html).
+3. [Boas práticas em HTML](#boas-práticas-em-html);
+4. [Referências](#referências).
 
 ## HTML e a _web_
 
@@ -225,3 +226,7 @@ Aqui faz presente uma lista com boas práticas em HTML
 12. Use o atributo _alt_ nas imagens;
 13. Evite comentários em excesso;
 14. Siga a hierarquia para elementos de cabeçalho.
+
+## Referências
+
+1. [roadmap.sh/frontend](https://roadmap.sh/frontend).

@@ -5,4 +5,5 @@ Cascading Style Sheets (CSS) is a stylesheet language used to describe the prese
 ## References
 
 1. [developer.mozilla.org/en-US/docs/Web/CSS](_https://developer.mozilla.org/en-US/docs/Web/CSS);
-2. [w3.org/Style/CSS/#specs](https://www.w3.org/Style/CSS/#specs).
+2. [w3.org/Style/CSS/#specs](https://www.w3.org/Style/CSS/#specs);
+3. [roadmap.sh/frontend](https://roadmap.sh/frontend).
