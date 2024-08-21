@@ -6,7 +6,7 @@ Antes de submeter dados ao servidor, é importante ter a certeza que todos os fo
 
 1. [Referências](#referências);
    1. [Referência em artigos da _web_](#referência-em-artigos-da-web);
-   2. [Referência em vídeos](#referência-em-vídeos).
+   2. [Referência em vídeo](#referência-em-vídeo).
 
 ## Referências
 
@@ -18,4 +18,4 @@ Antes de submeter dados ao servidor, é importante ter a certeza que todos os fo
 2. [web.dev/learn/forms/](https://web.dev/learn/forms/);
 3. [w3schools.com/js/js_validation.asp](https://www.w3schools.com/js/js_validation.asp).
 
-### Referência em vídeos
+### Referência em vídeo
