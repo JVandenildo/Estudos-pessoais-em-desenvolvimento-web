@@ -1,6 +1,6 @@
 # Formulários e Validações
 
-Antes de submeter dados ao servidor, é importante ter a certeza que todos os formulários de controle necessários estão preenchidos, da maneira correta. Isso é chamado de validação de formulário do client-side, e ajuda assegurar que os dados submetidos são compatíveis com os requisitos estabelecidos nos formulários de controle.
+Antes de submeter dados ao servidor, é importante ter a certeza que todos os formulários de controle necessários estão preenchidos da maneira correta. Isso é chamado de validação de formulário do client-side, e ajuda assegurar que os dados submetidos são compatíveis com os requisitos estabelecidos nos formulários de controle.
 
 ## Sumário
 
