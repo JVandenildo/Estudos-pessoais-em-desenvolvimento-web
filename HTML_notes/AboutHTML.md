@@ -19,14 +19,15 @@ As páginas _web_ são armazenadas em arquivos com extensão **.htm** ou **.html
 
 ## Sumário
 
-1. [HTML e a web](#html-e-a-web);
+1. [HTML e a _web_](#html-e-a-web);
 2. [HTML semântico e não semântico](#html-semântico-e-não-semântico);
 3. [Boas práticas em HTML](#boas-práticas-em-html);
 4. [Referências](#referências).
 
 ## HTML e a _web_
 
-_HyperText Markup Language_ (HTML), ou Linguagem de Marcação de [HiperTexto](https://www.w3.org/WhatIs.html), é uma das linguagens mais usadas para criação de páginas _web_, e que utiliza um formato simples de código, que pode ser gerado sem ajuda de aplicativos especiais.
+_HyperText Markup Language_ (HTML), ou Linguagem de Marcação de [HiperTexto](https://www.w3.org/WhatIs.html), é uma das linguagens mais usadas para criação de páginas _web_, e que utiliza um formato simples de código, que pode ser gerado sem ajuda de aplicativos especiais.  
+É uma linguagem usada no _frontend_, sendo a estrutura da página _web_ que pode ser estilizada usando CSS e ser interativa com JavaScript.  
 Tudo que precisa para criar um documento HTML é um editor de texto [ASCII](http://www.asciitable.com/) como _NotePad_ (Bloco de Notas). Se for necessário verificar a formatação do documento durante a criação, pode usar qualquer navegador, já que todos são capazes de interpretar o código.
 O HTML é uma linguagem que possibilita apresentar informações na internet. Aquilo que você vê quando abre uma página na internet é a interpretação que seu navegador faz do HTML.
 Foi inventado em 1'990 por um cientista chamado [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/). A finalidade inicial era a de tornar possível o acesso e a troca de informações e de documentação de pesquisas, entre cientistas de diferentes universidades.
@@ -229,4 +230,23 @@ Aqui faz presente uma lista com boas práticas em HTML
 
 ## Referências
 
-1. [roadmap.sh/frontend](https://roadmap.sh/frontend).
+1. [roadmap.sh/frontend](https://roadmap.sh/frontend);
+2. [app.daily.dev/tags/html?ref=roadmapsh](https://app.daily.dev/tags/html?ref=roadmapsh.).
+
+### Artigos da _web_
+
+1. [w3schools.com/html/html_intro.asp](https://www.w3schools.com/html/html_intro.asp);
+2. [Artigo no MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) com introdução ao HTML;
+3. [Artigo no web.dev](https://web.dev/learn/html) sobre introdução ao HTML;
+4. [cs.fyi/guide/writing-semantic-html](https://cs.fyi/guide/writing-semantic-html);
+5. [cs.fyi/guide/writing-semantic-html](https://cs.fyi/guide/writing-semantic-html);
+6. [w3schools.com/html/html5_semantic_elements.asp](https://www.w3schools.com/html/html5_semantic_elements.asp);
+7. [hackernoon.com/how-to-write-semantic-html-dkq3ulo](https://hackernoon.com/how-to-write-semantic-html-dkq3ulo);
+8. [blog.hubspot.com/website/semantic-html](https://blog.hubspot.com/website/semantic-html);
+9. [html.com/semantic-markup](https://html.com/semantic-markup);
+10. [web.dev/learn/html/semantic-html/](https://web.dev/learn/html/semantic-html/).
+
+### Vídeos
+
+1. Vídeo "[HTML Full Course - Build a Website Tutorial](https://youtu.be/pQN-pnXPaVg)" do canal [@freecodecamp](https://www.youtube.com/@freecodecamp).;
+2. Vídeo "[HTML Tutorial for Beginners: HTML Crash Course](https://youtu.be/qz0aGYrrlhU)" do canal [@programmingwithmosh](https://www.youtube.com/@programmingwithmosh).
