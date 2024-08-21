@@ -23,6 +23,8 @@ As páginas _web_ são armazenadas em arquivos com extensão **.htm** ou **.html
 2. [HTML semântico e não semântico](#html-semântico-e-não-semântico);
 3. [Boas práticas em HTML](#boas-práticas-em-html);
 4. [Referências](#referências).
+   1. [Referências em artigos da _web_](#referências-em-artigos-da-web);
+   2. [Referências em vídeos](#referências-em-vídeos).
 
 ## HTML e a _web_
 
@@ -233,7 +235,7 @@ Aqui faz presente uma lista com boas práticas em HTML
 1. [roadmap.sh/frontend](https://roadmap.sh/frontend);
 2. [app.daily.dev/tags/html?ref=roadmapsh](https://app.daily.dev/tags/html?ref=roadmapsh.).
 
-### Artigos da _web_
+### Referências em artigos da _web_
 
 1. [w3schools.com/html/html_intro.asp](https://www.w3schools.com/html/html_intro.asp);
 2. [Artigo no MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) com introdução ao HTML;
@@ -246,7 +248,7 @@ Aqui faz presente uma lista com boas práticas em HTML
 9. [html.com/semantic-markup](https://html.com/semantic-markup);
 10. [web.dev/learn/html/semantic-html/](https://web.dev/learn/html/semantic-html/).
 
-### Vídeos
+### Referências em vídeos
 
 1. Vídeo "[HTML Full Course - Build a Website Tutorial](https://youtu.be/pQN-pnXPaVg)" do canal [@freecodecamp](https://www.youtube.com/@freecodecamp).;
 2. Vídeo "[HTML Tutorial for Beginners: HTML Crash Course](https://youtu.be/qz0aGYrrlhU)" do canal [@programmingwithmosh](https://www.youtube.com/@programmingwithmosh).
