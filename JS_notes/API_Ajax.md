@@ -12,6 +12,6 @@ Ajax é uma técnica que permite enviar e receber o dado de maneira assíncrona 
 2. [javascripttutorial.net/web-apis/javascript-fetch-api/](https://www.javascripttutorial.net/web-apis/javascript-fetch-api/);
 3. [web.dev/introduction-to-fetch/](https://web.dev/introduction-to-fetch/).
 
-### Referêcias em vídeos
+### Referências em vídeos
 
 1. "[JavaScript Fetch API](https://youtu.be/-ZI0ea5O2oA)" do canal [@roadmapsh](https://www.youtube.com/@roadmapsh).
