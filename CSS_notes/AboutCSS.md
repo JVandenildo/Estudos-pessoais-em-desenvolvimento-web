@@ -1,10 +1,18 @@
 # About CSS
 
-Cascading Style Sheets (CSS) é uma linguagem estilização usada para descrever a apresentação de um documento escrito em HTML ou XML (ou seus dialetos). CSS descreve como os elementos devem ser renderizados em qualquer mídia.
+Cascading Style Sheets (CSS) é uma linguagem estilização usada para descrever a apresentação de um documento escrito em HTML ou XML (ou seus dialetos). CSS descreve como os elementos devem ser renderizados em qualquer mídia.  
+Junto com HTML e JavaScript, é uma tecnologia central para o desenvolvimento de sites.
 
 ## Sumário
 
 1. [Referências](#referências).
+   1. [Referências em artigos da _web_](#referências-em-artigos-da-web);
+   2. [Referências em vídeos](#referências-em-vídeos).
+2. [Layouts](#layouts).
+
+## Layouts
+
+Float, grid, positioning, display e box model são alguns dos tópicos chave que são usados para fazer layouts.
 
 ## Referências
 
