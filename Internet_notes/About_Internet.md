@@ -21,12 +21,13 @@ Alguns conceitos importantes sobre a internet:
 
 A internet é regida por **protocolos** para comunicação em rede. Eles determinam a comunicação entre computadores: como iniciar, como manter e como encerrar a comunicação. Alguns deles são:
 
-- **HTTP** (_**Hyper Text Transfer Protocol**_). É o protocolo usado pelos servidores _web_ para transmitir documentos HTML pela internet;
-- **FTP** (_**File Transfer Protocol**_). É outro protocolo muito utilizado para transmitir arquivos, porém sua interface gráfica não é tão agradável como do HTTP;
-- **TCP** (_**Transfer Control Protocol**_). É um conjunto de protocolos para a transmissão de informação pela _web_, com função de verificar se os dados são transferidos de forma correta, na sequência apropriada e sem erros;
-- **IP** (_**Internet Protocol**_). É um protocolo de endereçamento, que fornece o endereço de computadores na rede;
+- **HTTP** (**_Hyper Text Transfer Protocol_**). É o protocolo usado pelos servidores _web_ para transmitir documentos HTML pela internet;
+- **FTP** (**_File Transfer Protocol_**). É outro protocolo muito utilizado para transmitir arquivos, porém sua interface gráfica não é tão agradável como do HTTP;
+- **TCP** (**_Transfer Control Protocol_**). É um conjunto de protocolos para a transmissão de informação pela _web_, com função de verificar se os dados são transferidos de forma correta, na sequência apropriada e sem erros;
+- **IP** (**_Internet Protocol_**). É um protocolo de endereçamento, que fornece o endereço de computadores na rede;
 - **Nome de Domínio**. Um nome de domínio é um endereço único e fácil de lembrar usado para acessar sites, como "google.com" e "facebook.com". Usuários podem conectar a sites usando os nomes de domínio graças ao Domain Name System (DNS);
-- **Hosting**. Web hosting é um serviço _online_ que permite publicar arquivos de sites na internet.
+- **Hosting**. _Web hosting_ é um serviço _online_ que permite publicar arquivos de sites na internet;
+- **DNS** (**_Domain Name System_**). O DNS está para a internet assim como a agenda telefônica para o humano. Humanos acessam informação online pelos nomes de domínio, como "nytimes.com" ou "espn.com". Navegadores _web_ interagem pelos endereços IP (Internet Protocol). O DNS traduz os nomes dos domínios ao endereço do IP para que os navegadores possam carregar os recursos da internet.
 
 ### Protocolo HTTP
 
@@ -37,7 +38,8 @@ HTTP é um protocolo _stateless_, isso significa que o servidor não mantém nen
 
 1. [roadmap.sh/frontend](https://roadmap.sh/frontend);
 2. [internetfundamentals.com/](https://internetfundamentals.com/);
-3. [roadmap.sh/guides/what-is-internet](https://roadmap.sh/guides/what-is-internet).
+3. [roadmap.sh/guides/what-is-internet](https://roadmap.sh/guides/what-is-internet);
+4. [app.daily.dev/tags/dns?ref=roadmapsh](https://app.daily.dev/tags/dns?ref=roadmapsh).
 
 ### Referências em artigos na _web_
 
@@ -54,7 +56,10 @@ HTTP é um protocolo _stateless_, isso significa que o servidor não mantém nen
 11. [smashingmagazine.com/2021/08/http3-core-concepts-part1/](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/);
 12. [thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/](https://thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/);
 13. [developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name);
-14. [cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/).
+14. [cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/);
+15. [www.cloudflare.com/en-gb/learning/dns/what-is-dns/](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/);
+16. [messwithdns.net/](https://messwithdns.net/);
+17. [howdns.works/](https://howdns.works/).
 
 ### Referências em vídeos
 
@@ -65,4 +70,8 @@ HTTP é um protocolo _stateless_, isso significa que o servidor não mantém nen
 5. "[What is a Domain Name? - A Beginners Guide to How Domain Names Work!](https://youtu.be/Y4cRx19nhJk)" do canal [@CreateaProWebsite](https://www.youtube.com/@CreateaProWebsite);
 6. "[What Is Web Hosting? Explained](https://youtu.be/htbY9-yggB0)" do canal [@pickaweb](https://www.youtube.com/@pickaweb);
 7. "[Different Types of Web Hosting Explained! | Shared Hosting vs. VPS Hosting vs. Dedicated Server](https://youtu.be/AXVZYzw8geg)" do canal [@Craylor](https://www.youtube.com/@Craylor);
-8. "[Where to Host a Fullstack Project on a Budget](https://youtu.be/Kx_1NYYJS7Q)" do canal [@bawad](https://www.youtube.com/@bawad).
+8. "[Where to Host a Fullstack Project on a Budget](https://youtu.be/Kx_1NYYJS7Q)" do canal [@bawad](https://www.youtube.com/@bawad);
+9. "[DNS and How does it work?](https://youtu.be/Wj0od2ag5sk)" do canal [@roadmapsh](https://www.youtube.com/@roadmapsh);
+10. "[DNS Records](https://youtu.be/7lxgpKh_fRY)" do canal [@roadmapsh](https://www.youtube.com/@roadmapsh);
+11. "[When to add glue records to your nameservers](https://youtu.be/e48AyJOA9W8)" do canal [@PieterExplainsTech](https://www.youtube.com/@PieterExplainsTech);
+12. "[DNS Records for Newbies - How To Manage Website Records](https://youtu.be/YV5tkQYcvfg)" do canal [@OffsproutTV](https://www.youtube.com/@OffsproutTV).
