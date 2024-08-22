@@ -27,7 +27,8 @@ A internet é regida por **protocolos** para comunicação em rede. Eles determi
 - **IP** (**_Internet Protocol_**). É um protocolo de endereçamento, que fornece o endereço de computadores na rede;
 - **Nome de Domínio**. Um nome de domínio é um endereço único e fácil de lembrar usado para acessar sites, como "google.com" e "facebook.com". Usuários podem conectar a sites usando os nomes de domínio graças ao Domain Name System (DNS);
 - **Hosting**. _Web hosting_ é um serviço _online_ que permite publicar arquivos de sites na internet;
-- **DNS** (**_Domain Name System_**). O DNS está para a internet assim como a agenda telefônica para o humano. Humanos acessam informação online pelos nomes de domínio, como "nytimes.com" ou "espn.com". Navegadores _web_ interagem pelos endereços IP (Internet Protocol). O DNS traduz os nomes dos domínios ao endereço do IP para que os navegadores possam carregar os recursos da internet.
+- **DNS** (**_Domain Name System_**). O DNS está para a internet assim como a agenda telefônica para o humano. Humanos acessam informação online pelos nomes de domínio, como "nytimes.com" ou "espn.com". Navegadores _web_ interagem pelos endereços IP (Internet Protocol). O DNS traduz os nomes dos domínios ao endereço do IP para que os navegadores possam carregar os recursos da internet;
+- **Navegadores _web_**. Um navegador _web_ é um software que permite um usuário acessar e mostrar páginas _web_ ou outro conteúdo online pela sua interface gráfica.
 
 ### Protocolo HTTP
 
@@ -39,7 +40,8 @@ HTTP é um protocolo _stateless_, isso significa que o servidor não mantém nen
 1. [roadmap.sh/frontend](https://roadmap.sh/frontend);
 2. [internetfundamentals.com/](https://internetfundamentals.com/);
 3. [roadmap.sh/guides/what-is-internet](https://roadmap.sh/guides/what-is-internet);
-4. [app.daily.dev/tags/dns?ref=roadmapsh](https://app.daily.dev/tags/dns?ref=roadmapsh).
+4. [app.daily.dev/tags/dns?ref=roadmapsh](https://app.daily.dev/tags/dns?ref=roadmapsh);
+5. [app.daily.dev/tags/browsers?ref=roadmapsh](https://app.daily.dev/tags/browsers?ref=roadmapsh).
 
 ### Referências em artigos na _web_
 
@@ -74,4 +76,5 @@ HTTP é um protocolo _stateless_, isso significa que o servidor não mantém nen
 9. "[DNS and How does it work?](https://youtu.be/Wj0od2ag5sk)" do canal [@roadmapsh](https://www.youtube.com/@roadmapsh);
 10. "[DNS Records](https://youtu.be/7lxgpKh_fRY)" do canal [@roadmapsh](https://www.youtube.com/@roadmapsh);
 11. "[When to add glue records to your nameservers](https://youtu.be/e48AyJOA9W8)" do canal [@PieterExplainsTech](https://www.youtube.com/@PieterExplainsTech);
-12. "[DNS Records for Newbies - How To Manage Website Records](https://youtu.be/YV5tkQYcvfg)" do canal [@OffsproutTV](https://www.youtube.com/@OffsproutTV).
+12. "[DNS Records for Newbies - How To Manage Website Records](https://youtu.be/YV5tkQYcvfg)" do canal [@OffsproutTV](https://www.youtube.com/@OffsproutTV);
+13. "[How Do Web Browsers Work?](https://youtu.be/WjDrMKZWCt0)" do canal [@DaveXiang](https://www.youtube.com/@DaveXiang).
