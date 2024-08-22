@@ -17,6 +17,8 @@ O _Document Object Model_ (DOM), ou Modelo de Objeto do Documento, é uma interf
 
 ## Fetch API / Ajax (XHR)
 
+Ajax é uma técnica que permite enviar e receber o dado de maneira assíncrona do servidor, ou seja, sem atualizar o perfil do usuário ou buscar a lista de produtos pesquisados sem recarregar a página.
+
 ## Referências
 
 1. [roadmap.sh/frontend](https://roadmap.sh/frontend);
