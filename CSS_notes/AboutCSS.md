@@ -5,14 +5,20 @@ Junto com HTML e JavaScript, é uma tecnologia central para o desenvolvimento de
 
 ## Sumário
 
-1. [Referências](#referências).
+1. [Layouts](#layouts);
+2. [Design Responsivo](#design-responsivo);
+3. [Referências](#referências).
    1. [Referências em artigos da _web_](#referências-em-artigos-da-web);
    2. [Referências em vídeos](#referências-em-vídeos).
-2. [Layouts](#layouts).
+4. [Layouts](#layouts).
 
 ## Layouts
 
 Float, grid, positioning, display e box model são alguns dos tópicos chave que são usados para fazer layouts.
+
+## Design Responsivo
+
+Design web responsivo é uma técnica para fazer as páginas _web_ serem boas em todos tamanhos de tela. Algumas técnicas são usadas para conseguir isso, por exemplo CSS media queries, larguras em porcentagem, alturas e larguras mínimas ou máximas.
 
 ## Referências
 
