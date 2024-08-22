@@ -24,11 +24,14 @@ A internet é regida por **protocolos** para comunicação em rede. Eles determi
 - **HTTP** (_**Hyper Text Transfer Protocol**_). É o protocolo usado pelos servidores _web_ para transmitir documentos HTML pela internet;
 - **FTP** (_**File Transfer Protocol**_). É outro protocolo muito utilizado para transmitir arquivos, porém sua interface gráfica não é tão agradável como do HTTP;
 - **TCP** (_**Transfer Control Protocol**_). É um conjunto de protocolos para a transmissão de informação pela _web_, com função de verificar se os dados são transferidos de forma correta, na sequência apropriada e sem erros;
-- **IP** (_**Internet Protocol**_). É um protocolo de endereçamento, que fornece o endereço de computadores na rede.
+- **IP** (_**Internet Protocol**_). É um protocolo de endereçamento, que fornece o endereço de computadores na rede;
+- **Nome de Domínio**. Um nome de domínio é um endereço único e fácil de lembrar usado para acessar sites, como "google.com" e "facebook.com". Usuários podem conectar a sites usando os nomes de domínio graças ao Domain Name System (DNS);
+- **Hosting**. Web hosting é um serviço _online_ que permite publicar arquivos de sites na internet.
 
 ### Protocolo HTTP
 
-HTTP é uma camada de que padronizou como o client e o servidor comunicam entre si. Esse protocolo segue o modelo clássico "_Client-Server_" com um cliente abrindo uma requisição de conexão, e então espera a resposta do servidor. HTTP é um protocolo _stateless_, isso significa que o servidor não mantém nenhum dado (_state_) entre as requisições.
+HTTP é uma camada base de comunicação que usa TCP/IP que padronizou como o client e o servidor comunicam entre si. Esse protocolo segue o modelo clássico "_Client-Server_" com um cliente abrindo uma requisição de conexão, e então espera a resposta do servidor.  
+HTTP é um protocolo _stateless_, isso significa que o servidor não mantém nenhum dado (_state_) entre as requisições.
 
 ## Referências
 
@@ -49,11 +52,17 @@ HTTP é uma camada de que padronizou como o client e o servidor comunicam entre 
 9. [howhttps.works/](https://howhttps.works/);
 10. [developer.mozilla.org/en-US/docs/Web/HTTP/Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview);
 11. [smashingmagazine.com/2021/08/http3-core-concepts-part1/](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/);
-12. [thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/](https://thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/).
+12. [thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/](https://thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/);
+13. [developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name);
+14. [cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/).
 
 ### Referências em vídeos
 
 1. "[How does the INTERNET work? | ICT #2](https://youtu.be/x3c1ih2NJEg)" do canal [@Lesics](https://www.youtube.com/@Lesics);
 2. "[How the Internet Works in 5 Minutes](https://youtu.be/7_LPdttKXPc)" do canal [@AaronTitus](https://www.youtube.com/@AaronTitus);
 3. "[How does the internet work? - Glad You Asked T1](https://youtu.be/TNQsmPf24go)" do canal [@Vox](https://www.youtube.com/@Vox);
-4. "[HTTP Crash Course & Exploration](https://youtu.be/iYM2zFP3Zn0)" do canal [@TraversyMedia](https://www.youtube.com/@TraversyMedia).
+4. "[HTTP Crash Course & Exploration](https://youtu.be/iYM2zFP3Zn0)" do canal [@TraversyMedia](https://www.youtube.com/@TraversyMedia);
+5. "[What is a Domain Name? - A Beginners Guide to How Domain Names Work!](https://youtu.be/Y4cRx19nhJk)" do canal [@CreateaProWebsite](https://www.youtube.com/@CreateaProWebsite);
+6. "[What Is Web Hosting? Explained](https://youtu.be/htbY9-yggB0)" do canal [@pickaweb](https://www.youtube.com/@pickaweb);
+7. "[Different Types of Web Hosting Explained! | Shared Hosting vs. VPS Hosting vs. Dedicated Server](https://youtu.be/AXVZYzw8geg)" do canal [@Craylor](https://www.youtube.com/@Craylor);
+8. "[Where to Host a Fullstack Project on a Budget](https://youtu.be/Kx_1NYYJS7Q)" do canal [@bawad](https://www.youtube.com/@bawad).
