@@ -61,7 +61,10 @@ HTTP é um protocolo _stateless_, isso significa que o servidor não mantém nen
 14. [cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/);
 15. [www.cloudflare.com/en-gb/learning/dns/what-is-dns/](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/);
 16. [messwithdns.net/](https://messwithdns.net/);
-17. [howdns.works/](https://howdns.works/).
+17. [howdns.works/](https://howdns.works/);
+18. [html5rocks.com/en/tutorials/internals/howbrowserswork/](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/);
+19. [browserstack.com/guide/browser-rendering-engine](https://www.browserstack.com/guide/browser-rendering-engine);
+20. [developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work).
 
 ### Referências em vídeos
 
