@@ -10,3 +10,7 @@ Repository for notes/codes in web development.
 1. [w3.org/WhatIs.html](https://www.w3.org/WhatIs.html);
 2. [asciitable.com/](http://www.asciitable.com/);
 3. [Instagram post](https://www.instagram.com/p/C9LDQyXg2vx/) from [@bakhibrahimmanar](https://www.instagram.com/bakhibrahimmanar/) about semantic HTML and non-semantic.
+
+## Videos
+
+1. Video "[The Untold Story of TypeScript](https://youtu.be/ao5UZ9YwuH8)" from the channel [@CodeSource](https://www.youtube.com/@CodeSource).
