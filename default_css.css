@@ -1,0 +1,43 @@
+body{
+	background-color: #181818;
+	font-family: Atkinson Hyperlegible;
+	color: #FFF9ED;
+	text-align: justify;
+}
+
+.title_general{
+	font-family: Trebuchet MS;
+	text-align: center;
+}
+
+.calculation{
+	align-items: flex-start;
+}
+
+#inpuser{
+	width: 133pt;
+	height: 33pt;
+	background-color: #FFF9ED;
+	border: 1px #181818;
+	border-radius: 3px;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 12pt;
+}
+#buttCal{
+	width: 105pt;
+	height: 28pt;
+	background-color: #C41F38;
+	border-radius: 6px;
+	border: 1px transparent;
+	font-family: sans-serif;
+	color: inherit;
+	white-space: nowrap;
+	font-size: 15pt;
+	text-transform: uppercase;
+	transition-duration: 0.25s;
+} #buttCal:hover{
+	background-color: #1FC4AB;
+	color: inherit;
+	cursor: pointer;
+}

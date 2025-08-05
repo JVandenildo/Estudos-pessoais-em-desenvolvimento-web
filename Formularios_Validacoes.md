@@ -5,17 +5,17 @@ Antes de submeter dados ao servidor, é importante ter a certeza que todos os fo
 ## Sumário
 
 1. [Referências](#referências);
-   1. [Referência em artigos da _web_](#referência-em-artigos-da-web);
-   2. [Referência em vídeo](#referência-em-vídeo).
+   1. [Referências em artigos da _web_](#referências-em-artigos-da-web);
+   2. [Referências em vídeo](#referências-em-vídeo).
 
 ## Referências
 
 1. [roadmap.sh/frontend](https://roadmap.sh/frontend).
 
-### Referência em artigos da _web_
+### Referências em artigos da _web_
 
 1. [developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation);
 2. [web.dev/learn/forms/](https://web.dev/learn/forms/);
 3. [w3schools.com/js/js_validation.asp](https://www.w3schools.com/js/js_validation.asp).
 
-### Referência em vídeo
+### Referências em vídeo
