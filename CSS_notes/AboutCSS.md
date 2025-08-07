@@ -40,7 +40,8 @@ Design web responsivo é uma técnica para fazer as páginas _web_ serem boas em
 
 ### Referências em vídeos
 
-1. "[CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours](https://youtu.be/n4R2E7O-Ngo)" do canal [@DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode);
-2. "[CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)" do canal [@TraversyMedia](https://www.youtube.com/@TraversyMedia);
-3. "[HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!](https://youtu.be/D-h8L5hgW-w)" do canal [@DesignCourse](https://www.youtube.com/@DesignCourse);
-4. "[CSS Masterclass - Tutorial & Course for Beginners](https://youtu.be/FqmB-Zj2-PA)" do canal [@ChrisCourses](https://www.youtube.com/@ChrisCourses).
+1. "[CSS in 100 seconds](https://youtu.be/OEV8gMkCHXQ)" do canal [@Fireship](https://www.youtube.com/@Fireship);
+2. "[CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours](https://youtu.be/n4R2E7O-Ngo)" do canal [@DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode);
+3. "[CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)" do canal [@TraversyMedia](https://www.youtube.com/@TraversyMedia);
+4. "[HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!](https://youtu.be/D-h8L5hgW-w)" do canal [@DesignCourse](https://www.youtube.com/@DesignCourse);
+5. "[CSS Masterclass - Tutorial & Course for Beginners](https://youtu.be/FqmB-Zj2-PA)" do canal [@ChrisCourses](https://www.youtube.com/@ChrisCourses).
