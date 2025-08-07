@@ -39,5 +39,6 @@ Ajax é uma técnica que permite enviar e receber o dado de maneira assíncrona 
 
 ### Referências em vídeos
 
-1. "[JavaScript Crash Course For Beginners](https://youtu.be/hdI2bqOjy3c)" do canal [@TraversyMedia](https://www.youtube.com/@TraversyMedia);
-2. "[Build a Netflix Landing Page Clone with HTML, CSS & JS](https://youtu.be/P7t13SGytRk)" do canal [@TraversyMedia](https://www.youtube.com/@TraversyMedia).
+1. "[JavaScript in 100 Seconds](https://youtu.be/DHjqpvDnNGE)" do canal [@Fireship](https://www.youtube.com/@Fireship);
+2. "[JavaScript Crash Course For Beginners](https://youtu.be/hdI2bqOjy3c)" do canal [@TraversyMedia](https://www.youtube.com/@TraversyMedia);
+3. "[Build a Netflix Landing Page Clone with HTML, CSS & JS](https://youtu.be/P7t13SGytRk)" do canal [@TraversyMedia](https://www.youtube.com/@TraversyMedia).

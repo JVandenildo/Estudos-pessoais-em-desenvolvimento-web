@@ -36,19 +36,19 @@ Exemplo de um código usando elementos semânticos:
 
 ```html
 <header>
-	<h1>My Website</h1>
-	<nav>
-		<a href="#home">Home</a>
-		<a href="#about">About</a>
-		<a href="#contact">Contact</a>
-	</nav>
+  <h1>My Website</h1>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
 </header>
 <main>
-	<h2>Welcome</h2>
-	<p>This is the main content of the website.</p>
+  <h2>Welcome</h2>
+  <p>This is the main content of the website.</p>
 </main>
 <footer>
-	<p>2024 My website</p>
+  <p>2024 My website</p>
 </footer>
 ```
 
@@ -74,19 +74,19 @@ Exemplo de código HTML usando elementos não semânticos:
 
 ```html
 <div class="header">
-	<h1>My Website</h1>
-	<div class="nav">
-		<a href="#home">Home</a>
-		<a href="#about">About</a>
-		<a href="#contact">Contact</a>
-	</div>
+  <h1>My Website</h1>
+  <div class="nav">
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </div>
 </div>
 <div class="main">
-	<h2>Welcome</h2>
-	<p>This is the main content of the website.</p>
+  <h2>Welcome</h2>
+  <p>This is the main content of the website.</p>
 </div>
 <div class="footer">
-	<p>2024 My website</p>
+  <p>2024 My website</p>
 </div>
 ```
 
@@ -113,12 +113,12 @@ Aqui faz presente uma lista com boas práticas em HTML
 
    ```html
    <div>
-   	<img
-   		src="a-man-coding.png"
-   		alt="A man working on his
+     <img
+       src="a-man-coding.png"
+       alt="A man working on his
     computer"
-   	/>
-   	<p>This is a picture of a man working on his computer</p>
+     />
+     <p>This is a picture of a man working on his computer</p>
    </div>
    ```
 
@@ -126,12 +126,12 @@ Aqui faz presente uma lista com boas práticas em HTML
 
    ```html
    <figure>
-   	<img
-   		src="a-man-coding.jpg"
-   		alt="A man working on his
+     <img
+       src="a-man-coding.jpg"
+       alt="A man working on his
     computer"
-   	/>
-   	<figcaption>This is a picture of a man working on his computer</figcaption>
+     />
+     <figcaption>This is a picture of a man working on his computer</figcaption>
    </figure>
    ```
 
@@ -141,15 +141,15 @@ Aqui faz presente uma lista com boas práticas em HTML
 
    ```html
    <div class="header">
-   	<a href="index.html">Home</a>
-   	<a href="#">About</a>
-   	<a href="#">Contact</a>
+     <a href="index.html">Home</a>
+     <a href="#">About</a>
+     <a href="#">Contact</a>
    </div>
 
    <div class="footer">
-   	<a href="index.html">Home</a>
-   	<a href="#">About</a>
-   	<a href="#">Contact</a>
+     <a href="index.html">Home</a>
+     <a href="#">About</a>
+     <a href="#">Contact</a>
    </div>
    ```
 
@@ -157,13 +157,13 @@ Aqui faz presente uma lista com boas práticas em HTML
 
    ```html
    <header>
-   	<h1>Brand Name</h1>
+     <h1>Brand Name</h1>
    </header>
 
    <footer>
-   	<a href="index.html">Home</a>
-   	<a href="#">About</a>
-   	<a href="#">Contact</a>
+     <a href="index.html">Home</a>
+     <a href="#">About</a>
+     <a href="#">Contact</a>
    </footer>
    ```
 
@@ -187,7 +187,7 @@ Aqui faz presente uma lista com boas práticas em HTML
 
    ```html
    <a href="#">
-   	<p>Visit Blog Site</p>
+     <p>Visit Blog Site</p>
    </a>
    ```
 
@@ -195,8 +195,8 @@ Aqui faz presente uma lista com boas práticas em HTML
 
    ```html
    <p>
-   	Visit <a href="www.myblog.com" target="_blank"> My Blog Site</a> to learn
-   	JavaScript.
+     Visit <a href="www.myblog.com" target="_blank"> My Blog Site</a> to learn
+     JavaScript.
    </p>
    ```
 
@@ -232,6 +232,7 @@ Aqui faz presente uma lista com boas práticas em HTML
 
 ### Referências em vídeos
 
-1. "[HTML Full Course - Build a Website Tutorial](https://youtu.be/pQN-pnXPaVg)" do canal [@freecodecamp](https://www.youtube.com/@freecodecamp).;
-2. "[HTML Tutorial for Beginners: HTML Crash Course](https://youtu.be/qz0aGYrrlhU)" do canal [@programmingwithmosh](https://www.youtube.com/@programmingwithmosh);
-3. "[HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/mJgBOIoGihA?si=kDsrzjXT8BABOqJg)" do canal [@DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode).
+1. "[HTML in 100 Seconds](https://youtu.be/ok-plXXHlWw)" do canal [@Fireship](https://www.youtube.com/@Fireship);
+2. "[HTML Full Course - Build a Website Tutorial](https://youtu.be/pQN-pnXPaVg)" do canal [@freecodecamp](https://www.youtube.com/@freecodecamp).;
+3. "[HTML Tutorial for Beginners: HTML Crash Course](https://youtu.be/qz0aGYrrlhU)" do canal [@programmingwithmosh](https://www.youtube.com/@programmingwithmosh);
+4. "[HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/mJgBOIoGihA?si=kDsrzjXT8BABOqJg)" do canal [@DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode).
